@@ -1,0 +1,29 @@
+skin_analysis_main_configuration:  # 这里使用的阿里云的Access_key_id和Acess_key_secret
+  access_key_id: YOUR_ALIBABA_CLOUD_ACCESS_KEY_ID
+  access_key_secret: YOUR_ALIBABA_CLOUD_ACCESS_KEY_SECRET
+
+img_to_oss:  # 我这里用的是阿里云OSS对象存储
+  bucket_name: YOUR_OSS_BUCKET_NAME
+  oss_endpoint: oss-cn-shanghai.aliyuncs.com
+
+skin_analysis:    # 这里是皮肤分析模型的一些参数
+  access_key_id: YOUR_ALIBABA_CLOUD_ACCESS_KEY_ID
+  access_key_secret: YOUR_ALIBABA_CLOUD_ACCESS_KEY_SECRET
+  org_id: "0001"
+  org_name: "demo"
+  endpoint: "imageprocess.cn-shanghai.aliyuncs.com"
+
+deepseek_api:   # 这里需要使用DeepSeek的密钥，base_url和模型名称
+  api_key: YOUR_DEEPSEEK_API_KEY
+  base_url: https://api.deepseek.com
+  model_name: deepseek-reasoner
+
+gemma3n_api:    # 这里需要NIM上的密钥和base_url，还有模型名称和基本参数
+  api_key: YOUR_NVIDIA_NIM_API_KEY
+  invoke_url: https://integrate.api.nvidia.com/v1/chat/completions
+  model_name: google/gemma-3-27b-it
+  max_tokens: 8000
+
+
+  
+
