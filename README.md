@@ -10,7 +10,7 @@
 [![状态](https://img.shields.io/badge/Status-Active%20Development-orange)](https://github.com/ZhanlinCui/SkinTech-MultiAgent-Intelligent-Skin-Analysis-System)
 [![贡献](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**🚀 [在线演示](http://skintech-demo.com) | 🎥 [演示视频](https://youtu.be/-6FcxbkQ46A) | 📚 [完整文档](TECHNICAL_ARCHITECTURE.md) | 🎯 [商业计划](PROJECT_OVERVIEW.md) | 🛠️ [配置指南](CONFIG_SETUP.md)**
+**🚀 [在线演示](https://youtu.be/-6FcxbkQ46A) | 🎥 [演示视频](https://youtu.be/-6FcxbkQ46A) | 📚 [完整文档](TECHNICAL_ARCHITECTURE.md) | 🎯 [商业计划](PROJECT_OVERVIEW.md) | 🛠️ [配置指南](CONFIG_SETUP.md)**
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 🎯 项目亮点
 
-### 💡 全球首创双引擎AI架构
+### 💡 首创双引擎AI架构
 - **皮肤分析引擎**: 阿里云医疗级AI + DeepSeek推理 + NVIDIA可视化
 - **数字人交互引擎**: 科大讯飞Avatar SDK + WebRTC实时流媒体
 - **MCP协议融合**: 多模型无缝协调，打造沉浸式健康咨询体验
@@ -60,12 +60,6 @@
 🎯 精准营销平台     →  品牌广告投放¥5-20元/CPM
 ```
 
-### 🚀 商业化里程碑
-- **2024 Q4**: MVP产品发布，获得1万种子用户
-- **2025 Q1**: A轮融资500万美元，产品正式商用  
-- **2025 Q2**: 用户突破10万，月收入达到100万人民币
-- **2025 Q4**: B轮融资2000万美元，拓展海外市场
-- **2026**: 用户破百万，年收入突破1亿人民币，启动IPO准备
 
 ---
 
@@ -186,28 +180,6 @@ npm install && npm run dev
 
 ---
 
-## 🎯 发展路线图
-
-### 🚧 2024 Q4 - MVP发布
-- [x] 皮肤分析核心功能
-- [x] 数字人基础交互  
-- [x] 产品推荐系统
-- [ ] 用户系统和数据统计
-- [ ] 移动端适配
-
-### 📱 2025 Q1 - 产品成熟化
-- [ ] iOS/Android原生APP
-- [ ] 皮肤档案和历史追踪
-- [ ] 社区功能和内容生态
-- [ ] 企业级API和私有化部署
-- [ ] 多语言国际化支持
-
-### 🌏 2025 Q2-Q4 - 规模化扩张
-- [ ] 海外市场拓展(日韩、欧美)
-- [ ] 更多AI模型集成(GPT、Claude等)
-- [ ] AR/VR沉浸式体验
-- [ ] 智能硬件生态合作
-- [ ] 医疗级认证和合规
 
 ---
 
@@ -229,48 +201,13 @@ npm install && npm run dev
 
 ---
 
-## 📞 联系我们
+## 👥 团队架构
 
-### 👥 世界级技术团队
-
-**🎯 团队优势**: 5位顶尖工程师，涵盖AI、全栈、多模态交互全技术栈，平均10+年技术经验
-
-#### 核心成员
-- **🏗️ Maverick** - 首席架构师 & 项目管理
-  - *技术战略规划，团队协调，产品路线图制定*
-  - *10年+大型系统架构经验，曾主导多个千万用户级产品*
-
-- **💻 LJK86** - 全栈开发工程师 
-  - *前后端架构设计与开发，React/FastAPI技术栈专家*
-  - *精通现代化Web开发，微服务架构，云原生部署*
-
-- **⚡ 邵辉** - 全栈开发工程师
-  - *系统集成与性能优化，高并发架构设计*
-  - *专注于系统稳定性，曾优化系统性能提升500%+*
-
-- **🤖 Siddhash** - MCP协议专家
-  - *多模型协调与AI引擎集成，业界首创MCP协议实现者*
-  - *AI模型集成专家，深度学习工程化实践领军者*
-
-- **🎭 张择擅** - 数字人技术专家  
-  - *Avatar SDK集成与实时交互优化，WebRTC流媒体专家*
-  - *虚拟数字人领域资深工程师，实时渲染技术专家*
-
-#### 🏆 团队成就
-- ✅ **技术创新**: 首创双引擎AI架构，MCP协议标准制定者
-- ✅ **产品经验**: 累计服务千万级用户，多个成功商业化项目
-- ✅ **行业认知**: 深度理解AI+健康赛道，把握技术发展趋势
-- ✅ **执行能力**: 从0到1快速迭代，3个月完成MVP产品开发
-
-### 📬 商务合作
-- **邮箱**: [team@skintech.com](mailto:team@skintech.com)
-- **微信**: SkinTech-Official
-- **官网**: [www.skintech.com](https://www.skintech.com)
-
-### 🌐 社交媒体
-- **GitHub**: [SkinTech-MultiAgent-Intelligent-Skin-Analysis-System](https://github.com/ZhanlinCui/SkinTech-MultiAgent-Intelligent-Skin-Analysis-System)
-- **知乎专栏**: [SkinTech技术分享](https://zhuanlan.zhihu.com/skintech)
-- **B站**: [SkinTech官方频道](https://space.bilibili.com/skintech)
+- **Maverick** - 首席架构师 & 项目管理
+- **LJK86** - 全栈开发工程师
+- **邵辉** - 全栈开发工程师
+- **Siddhash** - MCP协议专家
+- **张择擅** - 数字人技术专家
 
 ---
 
