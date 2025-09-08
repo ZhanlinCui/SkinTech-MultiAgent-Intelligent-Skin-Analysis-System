@@ -1,0 +1,15 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+alibabacloud_tea_openapi>=0.3.3
+alibabacloud_imageprocess20200320>=1.0.10
+alibabacloud_tea_util>=0.3.6
+alibabacloud_credentials>=0.2.0
+oss2>=2.15.0
+python-dotenv>=0.19.0
+PyYAML>=6.0
+requests>=2.26.0
+gradio>=3.0.0
+langchain>=0.1.0
+openai>=1.0.0
+markdown>=3.3.0
