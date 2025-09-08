@@ -1,4 +1,4 @@
-# 🌟 SkinTech - 全球首创双引擎AI皮肤分析平台
+# 🌟 SkinTech - 首创双引擎AI皮肤分析平台
 
 > **愿景**: 让用户成为自己喜欢的人  
 > **使命**: 通过AI科技普惠皮肤健康，让每个人都能享受专业级皮肤分析服务
@@ -10,7 +10,15 @@
 [![状态](https://img.shields.io/badge/Status-Active%20Development-orange)](https://github.com/ZhanlinCui/SkinTech-MultiAgent-Intelligent-Skin-Analysis-System)
 [![贡献](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**🚀 [在线演示](http://skintech-demo.com) | 📚 [完整文档](TECHNICAL_ARCHITECTURE.md) | 🎯 [商业计划](PROJECT_OVERVIEW.md) | 🛠️ [配置指南](CONFIG_SETUP.md)**
+**🚀 [在线演示](http://skintech-demo.com) | 🎥 [演示视频](https://youtu.be/-6FcxbkQ46A) | 📚 [完整文档](TECHNICAL_ARCHITECTURE.md) | 🎯 [商业计划](PROJECT_OVERVIEW.md) | 🛠️ [配置指南](CONFIG_SETUP.md)**
+
+---
+
+<div align="center">
+
+🌐 **Language / 语言**: [English](README_EN.md) | [中文](README.md)
+
+</div>
 
 </div>
 
@@ -249,7 +257,7 @@ npm install && npm run dev
   - *虚拟数字人领域资深工程师，实时渲染技术专家*
 
 #### 🏆 团队成就
-- ✅ **技术创新**: 全球首创双引擎AI架构，MCP协议标准制定者
+- ✅ **技术创新**: 首创双引擎AI架构，MCP协议标准制定者
 - ✅ **产品经验**: 累计服务千万级用户，多个成功商业化项目
 - ✅ **行业认知**: 深度理解AI+健康赛道，把握技术发展趋势
 - ✅ **执行能力**: 从0到1快速迭代，3个月完成MVP产品开发
